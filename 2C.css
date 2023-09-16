@@ -1,0 +1,71 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #bbbbbb;
+    padding: 20px 0;
+}
+
+
+nave {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.h {
+    font-size: x-large;
+    text-align: center;
+}
+
+.copy {
+    padding: 100px;
+    text-align: center;
+    color: black;
+    font-size: 13px ;
+    margin: 15px;
+}
+
+.erro {
+    text-align: center;
+}
+
+.img {
+ width: 50%;
+ height: 50%;
+ position: relative;
+ padding: 10PX 0;
+}
+
+
+header {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid black; 
+    padding: 8px 15px;
+}
+
+
+
+.page {
+    width: 60%;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+.botão {
+    display: block;
+    width: 1250px;
+    height: -300px;
+    text-align: end;
+    margin: 25px;
+}
